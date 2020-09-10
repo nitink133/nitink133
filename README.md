@@ -7,5 +7,4 @@ I’m Nitin Khanna. Welcome to my little home on the Github. I’m a Freelance S
 - 👯 I’m looking to collaborate on **Fake-news applications**.
 - 💬 Ask me about **Mobile developement & Python**
 - 📫 How to reach me: hey@nitinsworld.com
-- 💼 Freelancing work: business@blackpaper.in
 
