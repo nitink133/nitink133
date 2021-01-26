@@ -6,5 +6,5 @@ I’m Nitin Khanna. Welcome to my little home on the Github. I’m a Freelance S
 - 🌱 I’m currently learning about **NLP**
 - 👯 I’m looking to collaborate on **Fake-news applications**.
 - 💬 Ask me about **Mobile developement & Python**
-- 📫 How to reach me: hey@nitinsworld.com
+- 📫 How to reach me: nitink@hey.com
 
