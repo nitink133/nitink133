@@ -4,7 +4,7 @@ As an Android lead engineer with experience in Kotlin, Java, MVVM, and Jetpack, 
 
 I have experience working with Silicon Valley-based startups and am passionate about helping grow the startup community in India. In the past, I have worked on my own startups, gaining valuable experience in all aspects of the startup process. I am a strong communicator and enjoy collaborating with others to find solutions to challenging problems. I am passionate about using my skills to create intuitive, user-friendly Android apps that provide a great user experience.
 
-Skills
+#### Skills
 - Familiarity with Jetpack libraries, such as WorkManager, Room, Navigation, and CameraX, and the ability to use them to address different needs in an app.
 - Knowledge of Android architecture principles, such as separation of concerns, driving UI from data models, and defining a single source of truth.
 - Experience with architecting and implementing app layers, such as UI, data, and domain layers.
@@ -23,3 +23,9 @@ Skills
 - Familiarity with cloud message APIs and push notifications
 - Strong knowledge of Android UI design principles, patterns, and best practices
 
+#### Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/nitink133/)
+- [StackOverFlow](https://stackoverflow.com/users/8383248/nitin)
+- [Twitter](https://twitter.com/nitink133)
+- [Instagram](https://www.instagram.com/nitin.archive/)
