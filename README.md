@@ -23,5 +23,5 @@ In the past, I have worked on my own startups, gaining valuable experience in al
 
 - [LinkedIn](https://www.linkedin.com/in/nitink133/)
 - [StackOverFlow](https://stackoverflow.com/users/8383248/nitin)
-- [Twitter](https://twitter.com/nitink133)
+- [Twitter](https://twitter.com/nitinarchive)
 - [Instagram](https://www.instagram.com/nitin.archive/)
